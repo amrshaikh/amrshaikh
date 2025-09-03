@@ -1,18 +1,28 @@
-## Hi there, my name's Amr. 👋
-I'm a graphic designer, CS student and an aspiring developer.
+# Hi there, I&#39;m Amr 👋
 
-- 🔭 I’m currently working on the CS50 Week 0 Assignment.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on beginner level projects or anything related to graphic design.
-- 📫 How to reach me: @amrxshk on Twitter
+I'm a Computer Science student and graphic designer with a passion for building beautiful and intuitive web applications. I love bringing ideas to life by combining clean code with user-centric design.
 
-<!--
-**amrshaikh/amrshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
 
-Here are some ideas to get you started:
+### 💻 My Tech Stack
 
-- 🔭 I’m currently working on the CS50 Week 0 Assignment.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on beginner level projects or anything related to Graphic Design.
-- 📫 How to reach me: @amrxshk on Twitter
--->
+  - **Languages:** JavaScript, Python, HTML5, CSS3
+  - **Frameworks/Libraries:** React, Tailwind CSS
+  - **Tools:** Git, GitHub, VS Code, Figma
+  - **Skills:** API Integration, Responsive Design, UI/UX Principles
+
+-----
+
+### 🌱 What I'm Up To
+
+  - 🔭 I’m currently building new projects to sharpen my React and API integration skills.
+  - 🌱 I’m continuing to deepen my knowledge in Python for backend development.
+  - 👯 I’m looking to collaborate on beginner-friendly web applications or anything related to graphic design.
+
+-----
+
+### 📫 Connect with Me
+
+  - **Twitter:** [@amrxshk](https://twitter.com/amrxshk)
+
+<!-- end list -->
